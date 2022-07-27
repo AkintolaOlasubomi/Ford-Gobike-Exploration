@@ -50,4 +50,4 @@
 
 > I will also show the days of the weeks and the number of rides taken per day. It is surprising that weekends have lesser number of rides but the rides are averagely longer.
 
-> We shall then look at the Frequent user types, and their duration. We will then look ak these usertypes duration per day.
+> We shall then look at the Frequent user types, and their duration. We will then look ak these user types duration per day.
